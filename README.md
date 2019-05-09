@@ -185,6 +185,6 @@ setTimeout
 setInterval  
 Date.now()
 
-_Mouse position (ev = event objectxf)_  
+_Mouse position (ev = event object)_  
 ev.clientX  
 ev.clientY
