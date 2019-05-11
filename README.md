@@ -104,7 +104,7 @@ These are the following resources to implement:
 * cps: 0
 * cost: 1000000000
 
-The simulation resource is not an actual resource to gain coins, it clears the local storage and restarts the game (only restarts game if local storage is not used).
+The simulation resource is not an actual resource to gain coins, it clears the local storage and restarts the game (only clears local storage if local storage is used).
 
 A resource is not visible until max amount of coins so far >= cost of resource / 2
 
